@@ -9,8 +9,8 @@ const CV = {
   email: "n3sser1996@gmail.com",
   phone: "+968 94944011",
   site: "subhi.tech",
-  github: "github.com/subhi",
-  linkedin: "linkedin.com/in/subhi",
+  github: "github.com/n3sser96",
+  linkedin: "linkedin.com/in/nasser-alsubhi-753a7b192",
   summary:
     "Technology leader with 7+ years of experience in solution architecture, software engineering, and multi-department leadership. Designs scalable, cloud-native, microservices-based systems on AWS and OCI with strong command of Go, Python, and modern delivery practices — Kubernetes, CI/CD, and event-driven architectures (Kafka, Temporal, Airflow).",
   timeline: [
